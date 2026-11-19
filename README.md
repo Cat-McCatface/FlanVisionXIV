@@ -2,4 +2,4 @@ For proper use, disable anti-aliasing in game (due to use of overriding AA shade
 
 Have in game gamma correction as low as possible for your display type (IPS/VA/OLED), preferably 0.
 
-Known issues: fog weather is distorted (pop-in texture) in certain conditions (this has reduced in version 2.3 and needs to be confirmed it still exists in LM).
+Known issues: cloud effects are distorted (appearance of pop-in texture). this is an issue with how ffxiv renders the effect using layered textures to fake cloud volume.
